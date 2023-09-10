@@ -1,5 +1,5 @@
 # calc v0.7 module math
-# made by Mahmduov A.V. group 4305
+# made by Mahmduov A.V., group 4305, SPB GTI(TU).
 import math
 # import - импорт из библиотек. math - математическая библиотека.
 # подключаем математическую библиотеку
